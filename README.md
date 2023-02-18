@@ -1,5 +1,5 @@
-# Avocado Analytics
-## An interactive web app built on the Python [Dash](https://dash.plotly.com/introduction) framework
+# Avocado Analytics 🥑
+## An interactive web app built on the Python [Dash framework](https://dash.plotly.com/introduction)
 
 ### [View the app in action 👉]()
 
