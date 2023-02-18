@@ -19,7 +19,7 @@ Before you follow the steps below, make sure you have Python 3 or above and Git 
 3. Create a virtual environment by typing `python -m venv venv`.
 4. Activate the virtual environment by typing `venv\Scripts\activate.bat` in Windows and `source venv/bin/activate` on macOS or Linux.
 5. Install Dash and other dependencies by typing `pip install -r requirements.txt`.
-6. Once installed, type `python app.py` to run the app and go to http://localhost:8050/ in any browser to view the app.
+6. Once installed, type `python app.py` to run the app and go to http://localhost:8050/ in any browser.
 
 #
 
