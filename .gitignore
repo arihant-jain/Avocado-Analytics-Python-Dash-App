@@ -1,0 +1,4 @@
+# virtual environment folder
+venv/
+
+*.pyc
